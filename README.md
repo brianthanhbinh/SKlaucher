@@ -6,3 +6,5 @@ also i did this so i can play mc on school with webblock :)
 i add opera cuz it bypass school webblock
 
 Localhost ip: pc.local
+
+for ur friend type http://(ur ip)
